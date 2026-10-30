@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000';
+// In development, default to local json-server at port 3000 if not specified.
+// On Vercel or in production, fallback to '/api' or VITE_API_URL.
+const BASE_URL = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? 'http://localhost:3000' : '/api');
 
 const apiClient = axios.create({
   baseURL: BASE_URL,
