@@ -1,0 +1,302 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "employeeCode": "EMP001",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "phone": "9876543210",
+      "departmentId": "1",
+      "designation": "Software Developer",
+      "joiningDate": "2024-01-15",
+      "salary": 65000,
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "employeeCode": "EMP002",
+      "name": "Priya Patel",
+      "email": "priya.patel@example.com",
+      "phone": "9812345678",
+      "departmentId": "2",
+      "designation": "HR Generalist",
+      "joiningDate": "2023-03-10",
+      "salary": 52000,
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "employeeCode": "EMP003",
+      "name": "Amitabh Verma",
+      "email": "amitabh.verma@example.com",
+      "phone": "9988776655",
+      "departmentId": "1",
+      "designation": "Senior Frontend Engineer",
+      "joiningDate": "2023-08-01",
+      "salary": 85000,
+      "status": "Active"
+    },
+    {
+      "id": "4",
+      "employeeCode": "EMP004",
+      "name": "Sneha Roy",
+      "email": "sneha.roy@example.com",
+      "phone": "9123456780",
+      "departmentId": "3",
+      "designation": "UI/UX Designer",
+      "joiningDate": "2024-02-20",
+      "salary": 58000,
+      "status": "Active"
+    },
+    {
+      "id": "5",
+      "employeeCode": "EMP005",
+      "name": "Vikram Singh",
+      "email": "vikram.singh@example.com",
+      "phone": "9845123456",
+      "departmentId": "1",
+      "designation": "Lead Backend Architect",
+      "joiningDate": "2022-11-05",
+      "salary": 115000,
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "employeeCode": "EMP006",
+      "name": "Ananya Sen",
+      "email": "ananya.sen@example.com",
+      "phone": "9765432198",
+      "departmentId": "4",
+      "designation": "Marketing Manager",
+      "joiningDate": "2023-06-18",
+      "salary": 72000,
+      "status": "Active"
+    },
+    {
+      "id": "7",
+      "employeeCode": "EMP007",
+      "name": "Karthik Nair",
+      "email": "karthik.nair@example.com",
+      "phone": "9871239871",
+      "departmentId": "5",
+      "designation": "Financial Analyst",
+      "joiningDate": "2024-04-12",
+      "salary": 64000,
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "employeeCode": "EMP008",
+      "name": "Meera Joshi",
+      "email": "meera.joshi@example.com",
+      "phone": "9898989898",
+      "departmentId": "3",
+      "designation": "Product Manager",
+      "joiningDate": "2023-01-09",
+      "salary": 96000,
+      "status": "Active"
+    },
+    {
+      "id": "9",
+      "employeeCode": "EMP009",
+      "name": "Rohan Gupta",
+      "email": "rohan.gupta@example.com",
+      "phone": "9776655443",
+      "departmentId": "1",
+      "designation": "QA Automation Engineer",
+      "joiningDate": "2024-05-15",
+      "salary": 48000,
+      "status": "Inactive"
+    },
+    {
+      "id": "10",
+      "employeeCode": "EMP010",
+      "name": "Deepika Das",
+      "email": "deepika.das@example.com",
+      "phone": "9654321876",
+      "departmentId": "2",
+      "designation": "Talent Acquisition Specialist",
+      "joiningDate": "2023-09-25",
+      "salary": 49000,
+      "status": "Active"
+    },
+    {
+      "id": "11",
+      "employeeCode": "EMP011",
+      "name": "Siddharth Rao",
+      "email": "siddharth.rao@example.com",
+      "phone": "9543216789",
+      "departmentId": "1",
+      "designation": "DevOps Specialist",
+      "joiningDate": "2023-10-10",
+      "salary": 88000,
+      "status": "Active"
+    },
+    {
+      "id": "12",
+      "employeeCode": "EMP012",
+      "name": "Kavita Reddy",
+      "email": "kavita.reddy@example.com",
+      "phone": "9432165498",
+      "departmentId": "6",
+      "designation": "Customer Support Specialist",
+      "joiningDate": "2024-07-01",
+      "salary": 42000,
+      "status": "Active"
+    },
+    {
+      "id": "13",
+      "employeeCode": "EMP013",
+      "name": "Manish Kulkarni",
+      "email": "manish.kulkarni@example.com",
+      "phone": "9321654987",
+      "departmentId": "5",
+      "designation": "Financial Analyst",
+      "joiningDate": "2022-04-18",
+      "salary": 78000,
+      "status": "Inactive"
+    },
+    {
+      "id": "14",
+      "employeeCode": "EMP014",
+      "name": "Tanvi Bhatia",
+      "email": "tanvi.bhatia@example.com",
+      "phone": "9216549876",
+      "departmentId": "4",
+      "designation": "Marketing Manager",
+      "joiningDate": "2024-09-10",
+      "salary": 68000,
+      "status": "Active"
+    },
+    {
+      "id": "15",
+      "employeeCode": "EMP015",
+      "name": "Arjun Menon",
+      "email": "arjun.menon@example.com",
+      "phone": "9109876543",
+      "departmentId": "1",
+      "designation": "Software Developer",
+      "joiningDate": "2025-01-20",
+      "salary": 50000,
+      "status": "Active"
+    },
+    {
+      "id": "16",
+      "employeeCode": "EMP016",
+      "name": "Nisha Agarwal",
+      "email": "nisha.agarwal@example.com",
+      "phone": "9098765432",
+      "departmentId": "3",
+      "designation": "UI/UX Designer",
+      "joiningDate": "2024-11-01",
+      "salary": 61000,
+      "status": "Active"
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "name": "Engineering",
+      "description": "Core product software engineering, architecture, infrastructure and quality assurance."
+    },
+    {
+      "id": "2",
+      "name": "Human Resources",
+      "description": "Employee relations, talent acquisition, people operations, and company culture."
+    },
+    {
+      "id": "3",
+      "name": "Product & Design",
+      "description": "Product strategy, roadmap management, UX research, and UI design systems."
+    },
+    {
+      "id": "4",
+      "name": "Marketing & Sales",
+      "description": "Brand awareness, customer acquisition, enterprise sales, and growth initiatives."
+    },
+    {
+      "id": "5",
+      "name": "Finance & Operations",
+      "description": "Accounting, corporate financial planning, legal compliance, and facilities."
+    },
+    {
+      "id": "6",
+      "name": "Customer Success",
+      "description": "Customer onboarding, technical support, account management, and client advocacy."
+    }
+  ],
+  "designations": [
+    {
+      "id": "1",
+      "title": "Software Developer",
+      "departmentId": "1",
+      "description": "Develops and maintains core application features and back-end logic."
+    },
+    {
+      "id": "2",
+      "title": "Senior Frontend Engineer",
+      "departmentId": "1",
+      "description": "Architects modern, responsive user interfaces and client-side performance."
+    },
+    {
+      "id": "3",
+      "title": "Lead Backend Architect",
+      "departmentId": "1",
+      "description": "Designs scalable distributed microservices, APIs, and data pipelines."
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "departmentId": "3",
+      "description": "Creates intuitive user journeys, wireframes, prototypes, and design tokens."
+    },
+    {
+      "id": "5",
+      "title": "Product Manager",
+      "departmentId": "3",
+      "description": "Oversees the product lifecycle, roadmaps, sprint planning, and user feedback."
+    },
+    {
+      "id": "6",
+      "title": "HR Generalist",
+      "departmentId": "2",
+      "description": "Manages payroll, leave policies, onboarding procedures, and grievances."
+    },
+    {
+      "id": "7",
+      "title": "Talent Acquisition Specialist",
+      "departmentId": "2",
+      "description": "Sources, interviews, and hires top talent across all company functions."
+    },
+    {
+      "id": "8",
+      "title": "Marketing Manager",
+      "departmentId": "4",
+      "description": "Executes digital marketing campaigns, lead funnels, and content strategies."
+    },
+    {
+      "id": "9",
+      "title": "Financial Analyst",
+      "departmentId": "5",
+      "description": "Conducts budgeting, financial modeling, forecasting, and expense audits."
+    },
+    {
+      "id": "10",
+      "title": "DevOps Specialist",
+      "departmentId": "1",
+      "description": "Manages CI/CD pipelines, container orchestration, and cloud infrastructure."
+    },
+    {
+      "id": "11",
+      "title": "QA Automation Engineer",
+      "departmentId": "1",
+      "description": "Builds automated end-to-end testing suites and regression coverage."
+    },
+    {
+      "id": "12",
+      "title": "Customer Support Specialist",
+      "departmentId": "6",
+      "description": "Delivers tier-1 and tier-2 technical support and customer satisfaction."
+    }
+  ]
+}
